@@ -1,6 +1,6 @@
 import React from 'react'
 import Her from '../assets/hero.png'
-import Stu from '../assets/stup.webp'
+import Stu from '../assets/Stup.webp'
 
 const Project = () => {
   return (
