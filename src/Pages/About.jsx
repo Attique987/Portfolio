@@ -24,9 +24,10 @@ const About = () => {
   }, []);
 
   return (
+    <>
     <div className='bg-[#0B1A33] flex justify-center md:justify-around items-center md:gap-30 flex-col md:flex-row' id='about'>
-      <div className='h-[350px] w-[80%] md:w-[50%] text-[17px] font-bold from-green-700 to-green-900'>
-        <div className='mt-[70px] border border-yellow-400 rounded-xl bg-[#2a2f66] text-center p-10 shadow-[0_0_40px_rgba(0,255,0,0.4)] transition-shadow duration-300'>
+      <div className='h-[380px] w-[80%] md:w-[50%] text-[17px] font-bold from-green-700 to-green-900'>
+        <div className='mt-[70px] border border-yellow-400 rounded-xl bg-[#2a2f66] text-center p-10 shadow-[0_0_40px_rgba(0,255,0,0.4)] transition-shadow duration-300 md:mt-[120px]'>
           <p className='text-[25px] text-white'>
             <span ref={typedRef}></span>
           </p>
@@ -40,6 +41,8 @@ const About = () => {
 
       </div>
     </div>
+    
+    </>
   );
 };
 
