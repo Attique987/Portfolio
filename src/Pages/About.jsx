@@ -11,8 +11,8 @@ const About = () => {
       strings: [
         "Welcome to my profile",
         "My Name is Attique-ur-Rehman",
-        "I'm Front End Developer",
-        "React.Js Developer",
+        "I'm Full Stack Developer",
+        "Mern Stack Developer",
       ],
       typeSpeed: 50,
       backSpeed: 50,
