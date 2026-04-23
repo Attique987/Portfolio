@@ -49,15 +49,15 @@ const Skills = () => {
             <SiTailwindcss className='text-[80px] text-[#36B7F0]'/>
             <p className='text-[white] text-[20px] font-bold'>Tailwind</p>
         </div>
-        <div className='bg-black border border-yellow-400 rounded-xl flex flex-col items-center justify-center py-10 shadow-[0_0_40px_gba(0,255,0,0.4)] hover:scale-105 transition-transform duration-300 md:w-[40%] w-[80%]' data-aos="flip-left">
+        <div className='bg-black border border-yellow-400 rounded-xl flex flex-col items-center justify-center py-10 shadow-[0_0_40px_rgba(0,255,0,0.4)] hover:scale-105 transition-transform duration-300 md:w-[40%] w-[80%]' data-aos="flip-left">
             <SiNetlify className='text-[80px] text-[#05B7B4]'/>
               <p className='text-[white] text-[20px] font-bold'>Netlify</p>
         </div>
-        <div className='bg-black border border-yellow-400 rounded-xl flex flex-col items-center justify-center py-10 shadow-[0_0_40px_gba(0,255,0,0.4)] hover:scale-105 transition-transform duration-300 md:w-[40%] w-[80%]' data-aos="flip-left">
+        <div className='bg-black border border-yellow-400 rounded-xl flex flex-col items-center justify-center py-10 shadow-[0_0_40px_rgba(0,255,0,0.4)] hover:scale-105 transition-transform duration-300 md:w-[40%] w-[80%]' data-aos="flip-left">
             <SiMongodb className='text-[80px] text-[#00ED64]'/>
               <p className='text-[white] text-[20px] font-bold'>MongoDB</p>
         </div>
-        <div className='bg-black border border-yellow-400 rounded-xl flex flex-col items-center justify-center py-10 shadow-[0_0_40px_gba(0,255,0,0.4)] hover:scale-105 transition-transform duration-300 md:w-[40%] w-[80%]' data-aos="flip-left">
+        <div className='bg-black border border-yellow-400 rounded-xl flex flex-col items-center justify-center py-10 shadow-[0_0_40px_rgba(0,255,0,0.4)] hover:scale-105 transition-transform duration-300 md:w-[40%] w-[80%]' data-aos="flip-left">
             <SiExpress  className='text-[80px] text-[Yellow]'/>
               <p className='text-[white] text-[20px] font-bold'>Express.js</p>
         </div>
