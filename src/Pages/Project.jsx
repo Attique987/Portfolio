@@ -6,7 +6,7 @@ const Project = () => {
   return (
     <div className='bg-[#0B1A33] flex justify-center items-center flex-col'>
         <div className=' w-[70%] h-[80px] text-[27px] text-[white] font-bold mt-[20px]' >PROJECTS</div>
-        <div className='flex justify-center items-center flex-wrap gap-[20px] w-[70%]' id='project'>
+        <div className='flex justify-center items-center flex-wrap gap-[20px] w-[70%]' id='projects'>
             <div className='bg-[#1c1f2e] border border-yellow-400 rounded-xl overflow-hidden shadow-[0_0_40px_rgba(0,255,0,0.3)] hover:scale-105 transition-transform duration-300 md:w-[35%] w-[85%] h-[400px] flex flex-wrap justify-center items-center' data-aos="flip-left">
               <div className='bg-[blue] w-[80%] border-2 border-yellow-400'>
               <img src={Her} alt="" className='h-[250px]'/>

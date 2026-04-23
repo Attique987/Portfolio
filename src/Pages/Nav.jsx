@@ -23,9 +23,9 @@ const Nav = () => {
           md:flex md:static md:flex-row md:w-auto md:bg-transparent md:gap-10 transition-all duration-500`}
       >
         <li className="cursor-pointer hover:text-yellow-400"><a href="#about">Home</a></li>
-        <li className="cursor-pointer hover:text-yellow-400"><a href="#exper">Experience</a></li>
-        <li className="cursor-pointer hover:text-yellow-400"><a href="#skill">Skills</a></li>
-        <li className="cursor-pointer hover:text-yellow-400"><a href="#project">Projects</a></li>
+        <li className="cursor-pointer hover:text-yellow-400"><a href="#experience">Experience</a></li>
+        <li className="cursor-pointer hover:text-yellow-400"><a href="#skills">Skills</a></li>
+        <li className="cursor-pointer hover:text-yellow-400"><a href="#projects">Projects</a></li>
         <li className="cursor-pointer hover:text-yellow-400"><a href="#contact">Contact</a></li>
       </div>
     </nav>

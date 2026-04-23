@@ -15,7 +15,7 @@ import { SiExpress } from "react-icons/si";
 const Skills = () => {
   return (
     <div className='bg-[#0B1A33] flex justify-center items-center flex-col'>
-        <div className=' h-[80px] w-[70%] mt-[35px]' id='skill'>
+        <div className=' h-[80px] w-[70%] mt-[35px]' id='skills'>
             <p className='text-[white] text-[27px] font-bold'>Skills</p>
         </div>
         <div className=' flex justify-center items-center gap-[30px] flex-wrap md:w-[60%] w-[80%]'>
